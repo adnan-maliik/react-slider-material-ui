@@ -1,4 +1,5 @@
-# React Slider with Material UI
+# React Figma Template with Mui v5
+![Ui](./gif_result.gif)
 
 This is a React front-end project featuring an attractive design using Material UI and a custom-built slider component.
 
