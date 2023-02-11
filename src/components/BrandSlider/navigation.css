@@ -1,0 +1,13 @@
+#cross-store .swiper-button-prev ,#cross-store  .swiper-button-next{
+    background-color: #D9D9D9;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+ #cross-store .swiper-button-prev::after,
+ #cross-store .swiper-button-next::after {
+  font-size: 1rem;
+}
